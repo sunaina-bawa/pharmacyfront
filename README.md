@@ -5,6 +5,7 @@
         2. Vishal Dinesh.
         3. Alisha Sahu.
         4. Aditi Kashyap.
+        5. sunaina
    
 # Duration : 5 Days
 
@@ -14,11 +15,12 @@ Tata 1mg is consumer health platform. This site offer a various medicines of alm
 We got this site as our construct week project, a clone of Tata-1mg.
   
   
-  Netlify Link :- https://onemg-express-clone.netlify.app/
+  Netlify Link :- https://pharmacywebsite1.netlify.app/
   
-  Backend Repository Link: https://github.com/viz404/1mg-express-server
+  Backend Repository Link: https://github.com/sunaina-bawa/pharmcy-back
   
-  Backend Deployed Link: https://clean-crab-sneakers.cyclic.app/
+  Backend Deployed Link: https://bronze-catfish-vest.cyclic.app
+
   
 # Tech Stacks:- 
         HTML, CSS, JavaScript, React, Redux, JSON 
