@@ -1,0 +1,44 @@
+.smallcarousal {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  padding: 0 1rem;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  gap: 5rem;
+  padding: 2rem;
+  padding-bottom: 1rem;
+  overflow-x: auto;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  text-align: center;
+  font-size: small;
+}
+
+.image {
+  height: 120px;
+  width: 120px;
+}
+
+.image > img {
+  display: block;
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+.button > button {
+  background-color: white;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  height: 50px;
+  width: 50px;
+}
